@@ -3,7 +3,7 @@
 
 ##Description:
 
-This HTML document displays a map using Mapbox and a button to animate a marker's movement along predefined bus stops between Gandhipuram and Sulur.
+This HTML document displays a map using Mapbox and a button to animate a marker's movement along predefined bus stops between Dharapuram and Sulur.
 
 ##How to run the code:
 
